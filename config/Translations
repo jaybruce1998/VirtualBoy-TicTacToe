@@ -1,0 +1,29 @@
+{
+    "languages": [
+        {
+            "code": "en",
+            "flag": "FlagUnitedKingdomEntitySpec",
+            "localizedName": "English",
+            "name": "English"
+        },
+        {
+            "code": "de",
+            "flag": "FlagGermanyEntitySpec",
+            "localizedName": "Deutsch",
+            "name": "German"
+        },
+        {
+            "code": "es",
+            "flag": "FlagSpainEntitySpec",
+            "localizedName": "Español",
+            "name": "Spanish"
+        }
+    ],
+    "translations": {
+        "YourGameHere": {
+            "de": "Dein Spiel hier",
+            "en": "Your Game Here",
+            "es": "Su juego aquí"
+        }
+    }
+}
